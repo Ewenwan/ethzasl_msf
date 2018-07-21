@@ -135,6 +135,9 @@
         这一行命令是暂停并从第 25s 后开始播放 bag 文件，文档中说这是为了等待 MAV 硬件系统站稳并处于非观察模式（不理解）。
 
         总之，如果你准备好运行了，就可以开始点击空格键进行数据播放了，播放的数据大约剩余 86s 左右。
+![](http://wiki.ros.org/ethzasl_sensor_fusion/Tutorials/Introductory%20Tutorial%20for%20Multi-Sensor%20Fusion%20Framework?action=AttachFile&do=get&target=rosgraph.png)
+
+
 ## 5、数据模拟：
     刚才跑成功了数据融合节点，但是并没有任何可视化的输出可以给我们看到。
     ethzasl msf 提供了一些脚本来进行数据模拟的功能，可以让我们更直观地看到结果。
